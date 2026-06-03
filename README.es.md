@@ -17,6 +17,6 @@ Recopila cada reto con enlaces directos a:
 
 ### Frontend Mentor
 
-| Reto              | Repositorio                                                        | Demo desplegada                                             |
-| ----------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
-| QR Code Component | [Repositorio](https://github.com/edu-challenges/qr-code-component) | [Demo](https://edu-challenges.github.io/qr-code-component/) |
+| Reto              | Descripción breve                                        | Repositorio                                                        | Demo desplegada                                             |
+| ----------------- | -------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
+| QR Code Component | Construir una tarjeta QR replicando fielmente el diseño. | [Repositorio](https://github.com/edu-challenges/qr-code-component) | [Demo](https://edu-challenges.github.io/qr-code-component/) |

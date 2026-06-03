@@ -17,6 +17,6 @@ It collects each challenge with direct links to:
 
 ### Frontend Mentor
 
-| Challenge         | Repository                                                        | Live Demo                                                        |
-| ----------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
-| QR Code Component | [Repository](https://github.com/edu-challenges/qr-code-component) | [Live Demo](https://edu-challenges.github.io/qr-code-component/) |
+| Challenge         | Brief description                                    | Repository                                                        | Live Demo                                                        |
+| ----------------- | ---------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| QR Code Component | Build a QR card matching the provided design closely. | [Repository](https://github.com/edu-challenges/qr-code-component) | [Live Demo](https://edu-challenges.github.io/qr-code-component/) |
