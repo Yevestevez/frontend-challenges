@@ -17,7 +17,8 @@ It collects each challenge with direct links to:
 
 ### Frontend Mentor
 
-| Challenge         | Brief description                                               | Repository                                                        | Live Demo                                                        |
-| ----------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
-| QR Code Component | Build a QR card matching the provided design closely.           | [Repository](https://github.com/edu-challenges/qr-code-component) | [Live Demo](https://edu-challenges.github.io/qr-code-component/) |
-| Blog Preview Card | Build a blog preview card matching the provided design closely. | [Repository](https://github.com/edu-challenges/blog-preview-card) | [Live Demo](https://edu-challenges.github.io/blog-preview-card/) |
+| Challenge            | Brief description                                                       | Repository                                                           | Live Demo                                                           |
+| -------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| QR Code Component    | Build a QR card matching the provided design closely.                   | [Repository](https://github.com/edu-challenges/qr-code-component)    | [Live Demo](https://edu-challenges.github.io/qr-code-component/)    |
+| Blog Preview Card    | Build a blog preview card matching the provided design closely.         | [Repository](https://github.com/edu-challenges/blog-preview-card)    | [Live Demo](https://edu-challenges.github.io/blog-preview-card/)    |
+| Social Links Profile | Build a social links profile card matching the provided design closely. | [Repository](https://github.com/edu-challenges/social-links-profile) | [Live Demo](https://edu-challenges.github.io/social-links-profile/) |

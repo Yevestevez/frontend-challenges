@@ -17,7 +17,8 @@ Recopila cada reto con enlaces directos a:
 
 ### Frontend Mentor
 
-| Reto              | Descripción breve                                                             | Repositorio                                                        | Demo desplegada                                             |
-| ----------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
-| QR Code Component | Construir una tarjeta QR replicando fielmente el diseño.                      | [Repositorio](https://github.com/edu-challenges/qr-code-component) | [Demo](https://edu-challenges.github.io/qr-code-component/) |
-| Blog Preview Card | Construir una tarjeta de vista previa de blog replicando fielmente el diseño. | [Repositorio](https://github.com/edu-challenges/blog-preview-card) | [Demo](https://edu-challenges.github.io/blog-preview-card/) |
+| Reto                 | Descripción breve                                                                    | Repositorio                                                           | Demo desplegada                                                |
+| -------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------- |
+| QR Code Component    | Construir una tarjeta QR replicando fielmente el diseño.                             | [Repositorio](https://github.com/edu-challenges/qr-code-component)    | [Demo](https://edu-challenges.github.io/qr-code-component/)    |
+| Blog Preview Card    | Construir una tarjeta de vista previa de blog replicando fielmente el diseño.        | [Repositorio](https://github.com/edu-challenges/blog-preview-card)    | [Demo](https://edu-challenges.github.io/blog-preview-card/)    |
+| Social Links Profile | Construir una tarjeta de perfil con enlaces sociales replicando fielmente el diseño. | [Repositorio](https://github.com/edu-challenges/social-links-profile) | [Demo](https://edu-challenges.github.io/social-links-profile/) |
