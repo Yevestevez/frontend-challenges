@@ -6,19 +6,28 @@ Este repositorio es un índice central de mis proyectos de retos de aprendizaje 
 
 Recopila cada reto con enlaces directos a:
 
-- Repositorios de código fuente
+- Repositorios de soluciones
 - Despliegues en vivo en GitHub Pages o similares
 
-## Organización de GitHub
+## Enlaces
 
-- [Todos los repositorios](https://github.com/orgs/edu-challenges/repositories)
+- [Repositorios de retos frontend (código fuente)](https://github.com/orgs/edu-challenges/repositories)
+- [Perfil principal en Frontend Mentor](https://www.frontendmentor.io/profile/Yevestevez)
+- [Perfil de LinkedIn](https://www.linkedin.com/in/edu-yeves/)
 
 ## Índice de Retos
 
 ### Frontend Mentor
 
-| Reto                 | Descripción breve                                                                    | Repositorio                                                           | Demo desplegada                                                |
-| -------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------- |
-| QR Code Component    | Construir una tarjeta QR replicando fielmente el diseño.                             | [Repositorio](https://github.com/edu-challenges/qr-code-component)    | [Demo](https://edu-challenges.github.io/qr-code-component/)    |
-| Blog Preview Card    | Construir una tarjeta de vista previa de blog replicando fielmente el diseño.        | [Repositorio](https://github.com/edu-challenges/blog-preview-card)    | [Demo](https://edu-challenges.github.io/blog-preview-card/)    |
-| Social Links Profile | Construir una tarjeta de perfil con enlaces sociales replicando fielmente el diseño. | [Repositorio](https://github.com/edu-challenges/social-links-profile) | [Demo](https://edu-challenges.github.io/social-links-profile/) |
+- [Perfil de Frontend Mentor](https://www.frontendmentor.io/profile/Yevestevez)
+
+#### Path: Getting started on Frontend Mentor
+
+##### Dificultad: Newbie
+
+| Reto                 | Descripción breve                                                                    | Solución                                                           | Demo desplegada                                                | Challenge preview                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| QR Code Component    | Construir una tarjeta QR replicando fielmente el diseño.                             | [Solución](https://github.com/edu-challenges/qr-code-component)    | [Demo](https://edu-challenges.github.io/qr-code-component/)    | <a href="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto/Challenges/cybxdhr4wewlscvco9dd.jpg"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/cybxdhr4wewlscvco9dd.jpg" alt="Preview de QR Code Component" width="96" /></a><br>[Reto](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)        |
+| Blog Preview Card    | Construir una tarjeta de vista previa de blog replicando fielmente el diseño.        | [Solución](https://github.com/edu-challenges/blog-preview-card)    | [Demo](https://edu-challenges.github.io/blog-preview-card/)    | <a href="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto/Challenges/kaiwxzdh90xhbdwsstvl.jpg"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/kaiwxzdh90xhbdwsstvl.jpg" alt="Preview de Blog Preview Card" width="96" /></a><br>[Reto](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)       |
+| Social Links Profile | Construir una tarjeta de perfil con enlaces sociales replicando fielmente el diseño. | [Solución](https://github.com/edu-challenges/social-links-profile) | [Demo](https://edu-challenges.github.io/social-links-profile/) | <a href="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto/Challenges/sfsa14rwjz0wp7lzel2x.jpg"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sfsa14rwjz0wp7lzel2x.jpg" alt="Preview de Social Links Profile" width="96" /></a><br>[Reto](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) |
+| Recipe Page          | Construir una página de receta semántica replicando fielmente el diseño.             | [Solución](https://github.com/edu-challenges/recipe-page)          | [Demo](https://edu-challenges.github.io/recipe-page/)          | <a href="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto/Challenges/sogk9gtrzrmsf2rzcj63.jpg"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sogk9gtrzrmsf2rzcj63.jpg" alt="Preview de Recipe Page" width="96" /></a><br>[Reto](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)                   |
