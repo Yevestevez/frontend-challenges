@@ -21,6 +21,14 @@ It collects each challenge with direct links to:
 
 - [Frontend Mentor profile](https://www.frontendmentor.io/profile/Yevestevez)
 
+#### Path: Building responsive layouts
+
+##### Difficulty: Newbie
+
+| Challenge                  | Brief description                                                      | Solution                                                                | Live Demo                                                                | Challenge preview                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Product Preview Card Component | Build a product preview card component matching the provided design closely. | [Solution](https://github.com/edu-challenges/product-preview-card-component) | [Live Demo](https://edu-challenges.github.io/product-preview-card-component/) | <a href="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto/Challenges/lftjtn81b7brs2icc898.jpg"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/lftjtn81b7brs2icc898.jpg" alt="Product Preview Card Component preview" width="96" /></a><br>[Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) |
+
 #### Path: Getting started on Frontend Mentor
 
 ##### Difficulty: Newbie

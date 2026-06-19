@@ -21,6 +21,14 @@ Recopila cada reto con enlaces directos a:
 
 - [Perfil de Frontend Mentor](https://www.frontendmentor.io/profile/Yevestevez)
 
+#### Path: Building responsive layouts
+
+##### Dificultad: Newbie
+
+| Reto                         | Descripción breve                                                                 | Solución                                                                | Demo desplegada                                                       | Challenge preview                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Product Preview Card Component | Construir un componente de tarjeta de vista previa de producto replicando fielmente el diseño. | [Solución](https://github.com/edu-challenges/product-preview-card-component) | [Demo](https://edu-challenges.github.io/product-preview-card-component/) | <a href="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto/Challenges/lftjtn81b7brs2icc898.jpg"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/lftjtn81b7brs2icc898.jpg" alt="Preview de Product Preview Card Component" width="96" /></a><br>[Reto](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) |
+
 #### Path: Getting started on Frontend Mentor
 
 ##### Dificultad: Newbie
